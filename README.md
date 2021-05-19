@@ -1,3 +1,14 @@
+<h1>About Project</h1>
+<h3>This project is created for demonstration purposes only</h3>
+<ol>
+  <h1>Functionality:</h1>
+  <li>Adding tasks to the board</li>
+  <li>Drag and Drop for individual tasks (if the board is empty, you can only create a new task)</li>
+  <li>Editing task details by clicking on item</li>
+</ol>
+ 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
